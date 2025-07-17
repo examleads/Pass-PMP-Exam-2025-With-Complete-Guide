@@ -128,7 +128,7 @@ We’re committed to your success. If you fail the exam using our dumps (highly 
 ## 🔗 Useful Links
 
 - 🔹 [PMI Official Site](https://www.pmi.org/)
-- 🔹 [RealExamCollection PMP Dumps](https://www.realexamcollection.com/pmp.html)
+- 🔹 [RealExamCollection PMP Dumps](https://www.realexamcollection.com/pmi/pmp-dumps.html)
 - 🔹 [PMP ECO PDF](https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/project-management-professional-exam-content-outline.pdf)
 
 ## 🙌 Final Words
