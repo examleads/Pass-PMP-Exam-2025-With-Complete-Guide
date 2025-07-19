@@ -1,8 +1,5 @@
 ![PMP Certified Badge](https://img.shields.io/badge/PMP%20Exam-2025%20Verified%20Dumps-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Star Repo](https://img.shields.io/github/stars/examleads/Pass-PMP-Exam-2025-With-Complete-Guide?style=for-the-badge&label=⭐%20Star%20This%20Repo&color=brightgreen)
-
-# Pass PMP Exam in First Attempt – Ultimate Step-by-Step Guide [2025]
-
 Are you preparing for the **PMI PMP (Project Management Professional)** exam and want to pass it **in your first try**? You're in the right place!
 
 This GitHub repo contains a **complete, proven, and beginner-friendly guide** to pass the **PMP Certification Exam** without wasting time or money. No fake promises – just a 100% practical approach.
